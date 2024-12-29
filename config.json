@@ -1,0 +1,11 @@
+{
+    "slider_defaults": {
+        "saturation_slider": 1,
+        "contrast_slider": 1,
+        "brightness_slider": 1,
+        "sharpness_slider": 1,
+        "red_slider": 0,
+        "green_slider": 0,
+        "blue_slider": 0
+    }
+}
